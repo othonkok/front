@@ -18,6 +18,7 @@ fetch("http://192.168.2.6/posts")
     }
     document.getElementById("output").innerHTML = output;
 
+  
     let output2 = "";
     for (let i = 3; i < data.length; i++) {
       output2 += `
