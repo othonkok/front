@@ -1,0 +1,38 @@
+body {
+  width: 95%;
+  margin: auto;
+}
+
+header {
+  height: 100px;
+  background-color: rgb(238, 235, 231);
+  text-align: center;
+  margin-top: 5px;
+  padding-top: 20px;
+}
+
+#main {
+  margin: auto;
+}
+
+#output {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+#output2 {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+footer {
+  background-color: rgb(238, 235, 231);
+  height: 50px;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 10px;
+}
